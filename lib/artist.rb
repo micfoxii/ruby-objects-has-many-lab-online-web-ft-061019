@@ -16,3 +16,4 @@ class Artist
     self.songs << song 
     song.artist = self 
   end
+end
